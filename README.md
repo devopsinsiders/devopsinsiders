@@ -11,11 +11,11 @@ Our mission is to help organizations to automate their software delivery pipelin
 ### Our Services
 We offer a wide range of DevOps consulting services to help organizations implement DevOps practices and tools, including:
 
-DevOps transformation strategy and planning
-Continuous Integration and Continuous Delivery (CI/CD) pipeline design and implementation
-Infrastructure as Code (IaC) and Configuration Management
-Monitoring and Logging
-Security and Compliance
+* DevOps transformation strategy and planning
+* Continuous Integration and Continuous Delivery (CI/CD) pipeline design and implementation
+* Infrastructure as Code (IaC) and Configuration Management
+* Monitoring and Logging
+* Security and Compliance
 
 ### Our Training Programs
 In addition to our consulting services, we offer comprehensive DevOps training programs that help individuals and organizations to upskill their teams and gain hands-on experience with the latest DevOps tools and practices. 

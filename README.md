@@ -1,5 +1,5 @@
-### Hi there 👋
-DevOpsInsiders is a leading DevOps company that provides comprehensive DevOps solutions to businesses of all sizes. Our team of experts leverages the latest tools and techniques to help organizations streamline their software delivery processes and improve the quality of their applications. With a focus on collaboration, automation, and continuous delivery, we help our clients achieve their goals and remain competitive in today's rapidly-evolving technology landscape. Whether you're looking for training, consulting, or managed services, DevOpsInsiders is here to help you on your DevOps journey.
+
+### DevOpsInsiders is a leading DevOps company that provides comprehensive DevOps solutions to businesses of all sizes. Our team of experts leverages the latest tools and techniques to help organizations streamline their software delivery processes and improve the quality of their applications. With a focus on collaboration, automation, and continuous delivery, we help our clients achieve their goals and remain competitive in today's rapidly-evolving technology landscape. Whether you're looking for training, consulting, or managed services, DevOpsInsiders is here to help you on your DevOps journey.
 
 ### 🔭 Expertise
 

@@ -1,12 +1,29 @@
 
-### Hi there 👋
-
-DevOps Insiders is a leading DevOps company that provides comprehensive DevOps solutions to businesses of all sizes. Our team of experts leverages the latest tools and techniques to help organizations streamline their software delivery processes and improve the quality of their applications. With a focus on collaboration, automation, and continuous delivery, we help our clients achieve their goals and remain competitive in today's rapidly-evolving technology landscape. Whether you're looking for training, consulting, or managed services, DevOpsInsiders is here to help you on your DevOps journey.
+### DevOpsInsiders
+Welcome to DevOpsInsiders, a leading DevOps consulting and training company that helps organizations achieve their DevOps transformation goals.
 
 ### 📫 Website:
 https://devopsinsiders.com/
 
+### Our Mission
+Our mission is to help organizations to automate their software delivery pipeline, improve collaboration between development and operations, and deliver software faster and with higher quality.
+
+### Our Services
+We offer a wide range of DevOps consulting services to help organizations implement DevOps practices and tools, including:
+
+DevOps transformation strategy and planning
+Continuous Integration and Continuous Delivery (CI/CD) pipeline design and implementation
+Infrastructure as Code (IaC) and Configuration Management
+Monitoring and Logging
+Security and Compliance
+
+### Our Training Programs
+In addition to our consulting services, we offer comprehensive DevOps training programs that help individuals and organizations to upskill their teams and gain hands-on experience with the latest DevOps tools and practices. 
+
+https://devopsinsiders.com/training/
+
 ### 🔭 Expertise
+Our team of certified DevOps professionals has extensive experience in using the latest DevOps tools, such as:
 
 | Tool Name | Description |
 | ---------- | ----------- |
@@ -24,11 +41,8 @@ https://devopsinsiders.com/
 | ArgoCD | An open-source continuous delivery tool that automates the deployment of applications on Kubernetes. |
 | Azure DevOps | A Microsoft product that provides development tools, services, and features for DevOps processes and continuous delivery. |
 
-    
-### 👯 We are looking to collaborate on 
-
-- Open Source Chat Bot Projects for DevOps ie. ChatOps
-- AIOps and MLOps
+### Get in Touch
+If you are interested in learning more about our services or training programs, please feel free to reach out to us at info@devopsinsiders.com. We look forward to working with you!
     
 
 

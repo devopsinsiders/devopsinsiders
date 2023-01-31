@@ -1,7 +1,7 @@
 
 ![alt text](https://devopsinsiders.com/wp-content/uploads/2023/01/lightlogo.png)
 
-Welcome to DevOpsInsiders, a leading DevOps consulting and training company that helps organizations achieve their DevOps transformation goals.
+Welcome to DevOpsInsiders, a leading DevOps consulting and training company that helps organizations achieve their DevOps transformation goals. Our company was founded in 2021 by a group of experienced DevOps engineers who saw the need for a more streamlined and efficient approach to software development. Since then, we have grown to become a trusted partner for companies of all sizes, across a wide range of industries.
 
 ### 📫 Website:
 https://devopsinsiders.com/

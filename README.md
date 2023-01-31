@@ -3,6 +3,9 @@
 
 DevOps Insiders is a leading DevOps company that provides comprehensive DevOps solutions to businesses of all sizes. Our team of experts leverages the latest tools and techniques to help organizations streamline their software delivery processes and improve the quality of their applications. With a focus on collaboration, automation, and continuous delivery, we help our clients achieve their goals and remain competitive in today's rapidly-evolving technology landscape. Whether you're looking for training, consulting, or managed services, DevOpsInsiders is here to help you on your DevOps journey.
 
+### 📫 Website:
+https://devopsinsiders.com/
+
 ### 🔭 Expertise
 
 | Tool Name | Description |
@@ -21,15 +24,13 @@ DevOps Insiders is a leading DevOps company that provides comprehensive DevOps s
 | ArgoCD | An open-source continuous delivery tool that automates the deployment of applications on Kubernetes. |
 | Azure DevOps | A Microsoft product that provides development tools, services, and features for DevOps processes and continuous delivery. |
 
-
     
 ### 👯 We are looking to collaborate on 
 
 - Open Source Chat Bot Projects for DevOps ie. ChatOps
 - AIOps and MLOps
     
-### 📫 Website:
-https://devopsinsiders.com/
+
 
   
    

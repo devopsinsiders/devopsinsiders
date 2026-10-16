@@ -1,12 +1,10 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
-    <img alt="DevOps Insiders Corporate Network" src="logo-dark.png" width="460">
-  </picture>
+  <a href="https://devopsinsiders.com">
+    <img src="https://raw.githubusercontent.com/devopsinsiders/devopsinsiders/main/banner.png" alt="DevOps Insiders - Transforming Lives" width="100%" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   # DevOps Insiders Corporate Network
   ### **Engineering the Autonomous Enterprise: Cloud Sovereignty, DevSecOps & Enterprise AI**

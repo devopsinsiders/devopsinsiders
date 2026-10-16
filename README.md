@@ -34,12 +34,18 @@
 
 ---
 
-### 📑 Executive Directory
-[Corporate Overview](#corporate-overview) • [Impact Metrics](#enterprise-impact-metrics) • [Core Practice Areas](#core-practice-areas) • [Proprietary Platforms](#proprietary-platforms) • [Case Studies](#enterprise-case-studies) • [Global Delivery](#global-delivery) • [Enterprise Security](#enterprise-security) • [Workforce Transformation](#workforce-transformation) • [Global Hubs](#global-hubs)
+### 📑 Strategic Ecosystem & Executive Navigation
+
+| Strategic Platform / Resource | Domain & Focus Area | Direct Access |
+|:---|:---|:---:|
+| **Enterprise Cloud & AI Hub** | Sovereign Cloud, DevSecOps & Enterprise Architecture | [devopsinsiders.com ↗](https://devopsinsiders.com) |
+| **NextOps.live SCADA IP** | Power Plant Telemetry & Forced Outage Prevention | [nextops.live ↗](https://nextops.live) |
+| **Enterprise Academy (Level 1)** | Operations Automator — 1.5-Year Comprehensive Foundation | [Download Syllabus PDF ↗](https://github.com/devopsinsiders/devopsinsiders/blob/main/L1_Operations_Automator_Course_DevOps_Insiders.pdf) |
+| **Enterprise Academy (Level 2)** | Agentic AI Builder — 12-Month Advanced Cohort | [Download Syllabus PDF ↗](https://github.com/devopsinsiders/devopsinsiders/blob/main/L2_Agentic_AI_Course_DevOps_Insiders.pdf) |
+| **Enterprise Partnership Desk** | Forward Deployed Engineering, CoE & Advisory | [contact@devopsinsiders.com ↗](mailto:contact@devopsinsiders.com) |
 
 ---
 
-<a id="corporate-overview"></a>
 ## 🏛️ Corporate Overview
 
 **DevOps Insiders** is an elite global enterprise technology organization delivering **autonomous cloud platforms**, **mission-critical DevSecOps modernization**, and **industrial edge intelligence**. 
@@ -72,7 +78,6 @@ Headquartered with a partner network spanning the **United States, Germany, Unit
 
 ---
 
-<a id="enterprise-impact-metrics"></a>
 ## 📈 Enterprise Impact Metrics
 
 Our engagements are governed by measurable financial returns, strict SLA availability, and deployment velocity improvements.
@@ -88,7 +93,6 @@ Our engagements are governed by measurable financial returns, strict SLA availab
 
 ---
 
-<a id="core-practice-areas"></a>
 ## 🌐 Core Practice Areas
 
 ```mermaid
@@ -126,7 +130,6 @@ graph TD
 
 ---
 
-<a id="proprietary-platforms"></a>
 ## 🚀 Proprietary Platforms & Intellectual Property
 
 DevOps Insiders engineers industrial-grade proprietary technology platforms deployed across sovereign enterprise environments.
@@ -156,7 +159,6 @@ DevOps Insiders engineers industrial-grade proprietary technology platforms depl
 
 ---
 
-<a id="enterprise-case-studies"></a>
 ## 🏆 Enterprise Case Studies & Proven Outcomes
 
 ```
@@ -185,7 +187,6 @@ DevOps Insiders engineers industrial-grade proprietary technology platforms depl
 
 ---
 
-<a id="global-delivery"></a>
 ## 🤝 Global Delivery Model & Forward Deployed Engineering
 
 DevOps Insiders partners with enterprise leadership through rigorous, high-accountability delivery frameworks:
@@ -196,7 +197,6 @@ DevOps Insiders partners with enterprise leadership through rigorous, high-accou
 
 ---
 
-<a id="enterprise-security"></a>
 ## 🔒 Enterprise Security, Governance & Zero-Trust
 
 Security is not an afterthought; it is baked into our foundational repository templates and operating procedures:
@@ -216,7 +216,6 @@ Security is not an afterthought; it is baked into our foundational repository te
 
 ---
 
-<a id="workforce-transformation"></a>
 ## 🎓 Workforce Transformation & Enterprise Academy
 
 DevOps Insiders bridges the talent gap for Global 2000 engineering teams. We do not teach generic theory; our curricula are battle-tested production blueprints designed by practicing Principal DevOps Architects.
@@ -254,7 +253,6 @@ Our engineers actively maintain production-grade reference architectures and ope
 
 ---
 
-<a id="global-hubs"></a>
 ## 🌍 Global Capability Hubs & Corporate Directory
 
 Our operations operate follow-the-sun across major global enterprise corridors:

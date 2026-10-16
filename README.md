@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://devopsinsiders.com">
-    <img src="https://raw.githubusercontent.com/devopsinsiders/devopsinsiders/main/banner.png" alt="DevOps Insiders - Transforming Lives" width="100%" />
+    <img src="https://raw.githubusercontent.com/devopsinsiders/devopsinsiders/main/banner.png" alt="DevOps Insiders - Transforming Lives" width="740" />
   </a>
 
   <br/><br/>

@@ -4,8 +4,6 @@
     <img src="https://raw.githubusercontent.com/devopsinsiders/devopsinsiders/main/banner-header.png" alt="DevOps Insiders - Transforming Lives" width="100%" />
   </a>
 
-  <br/><br/>
-
   # DevOps Insiders Corporate Network
   ### **Engineering the Autonomous Enterprise: Cloud Sovereignty, DevSecOps & Enterprise AI**
 
